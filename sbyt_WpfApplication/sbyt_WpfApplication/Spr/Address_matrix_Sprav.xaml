@@ -1,0 +1,58 @@
+﻿<UserControl x:Class="sbyt_WpfApplication.Spr.Address_matrix_Sprav"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+            d:DesignHeight="300" d:DesignWidth="300"
+             x:Name="myContr"
+             >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!--<StackPanel  Orientation="Horizontal" Grid.Row="0">
+            <Button Content="Добавить"  Margin=" 5" Width="80" Click="Button_Click" />
+            <Button Content="Изменить" Margin=" 5" Width="80" Click="Button_Click_1" />
+            <Button Content="Удалить" Margin=" 5" Width="80" Click="Button_Click_2" />
+        </StackPanel>-->
+
+        <ListView Name ="_ListView" Grid.Row="1" Margin="5,46,0,30">
+            <ListView.View>
+                <GridView   >
+                    <GridView.Columns>                     
+
+                        <GridViewColumn Header="Адрес объекта 1" >
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding Name_from}"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                        <GridViewColumn Header="Адрес объекта 2" >
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding Name_to}"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                        <GridViewColumn Header="  Расстояние (км)" >
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding SumDistance}"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+
+                    </GridView.Columns>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Матрица расстояний между объектами" Height="28" HorizontalAlignment="Left" Margin="12,12,0,0" Name="label4" VerticalAlignment="Top" Width="253" Grid.Row="1" FontStyle="Italic" />
+    </Grid>
+</UserControl>

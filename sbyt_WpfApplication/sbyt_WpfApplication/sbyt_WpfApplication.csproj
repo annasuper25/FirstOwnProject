@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6ED929D9-0798-4397-8E1F-5095AAEB6051}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>sbyt_WpfApplication</RootNamespace>
+    <AssemblyName>sbyt_WpfApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="Forms\App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Forms\O_Programme.xaml.cs">
+      <DependentUpon>O_Programme.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Spravka.xaml.cs">
+      <DependentUpon>Spravka.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Input_Docs\Contracts_edit.xaml.cs">
+      <DependentUpon>Contracts_edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Input_Docs\Contracts_jbi_edit.xaml.cs">
+      <DependentUpon>Contracts_jbi_edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Input_Docs\Contract_in_doc.xaml.cs">
+      <DependentUpon>Contract_in_doc.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Input_Docs\Graf_otgr_edit.xaml.cs">
+      <DependentUpon>Graf_otgr_edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Input_Docs\Graf_otgr_in_doc.xaml.cs">
+      <DependentUpon>Graf_otgr_in_doc.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Input_Docs\Mes_plan_vip_edit.xaml.cs">
+      <DependentUpon>Mes_plan_vip_edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Input_Docs\Mes_plan_vip_in_doc.xaml.cs">
+      <DependentUpon>Mes_plan_vip_in_doc.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Input_Docs\SF_ACTS_edit.xaml.cs">
+      <DependentUpon>SF_ACTS_edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Input_Docs\SF_ACTS_in_doc.xaml.cs">
+      <DependentUpon>SF_ACTS_in_doc.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Input_Docs\SF_in_doc.xaml.cs">
+      <DependentUpon>SF_in_doc.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Input_Docs\SF_in_doc_edit.xaml.cs">
+      <DependentUpon>SF_in_doc_edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Input_Docs\Ved_ost_edit.xaml.cs">
+      <DependentUpon>Ved_ost_edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Input_Docs\Ved_ost_in_doc.xaml.cs">
+      <DependentUpon>Ved_ost_in_doc.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Input_Docs\Vehicle_register_edit.xaml.cs">
+      <DependentUpon>Vehicle_register_edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Input_Docs\Vehicle_Register_in_doc.xaml.cs">
+      <DependentUpon>Vehicle_Register_in_doc.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Input_Docs\Waybill_in_In_doc.xaml.cs">
+      <DependentUpon>Waybill_in_In_doc.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Input_Docs\Waybill_out_In_doc.xaml.cs">
+      <DependentUpon>Waybill_out_In_doc.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Input_Docs\Zayavka_edit.xaml.cs">
+      <DependentUpon>Zayavka_edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Input_Docs\Zayavka_otgr.xaml.cs">
+      <DependentUpon>Zayavka_otgr.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Output_Docs\God_Otchet_8.xaml.cs">
+      <DependentUpon>God_Otchet_8.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Output_Docs\God_plan_post_1.xaml.cs">
+      <DependentUpon>God_plan_post_1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Output_Docs\Grafik_dost_4.xaml.cs">
+      <DependentUpon>Grafik_dost_4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Output_Docs\Mes_plan_otgr_2.xaml.cs">
+      <DependentUpon>Mes_plan_otgr_2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Output_Docs\Otchet_dost_6.xaml.cs">
+      <DependentUpon>Otchet_dost_6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Output_Docs\Otchet_post_sklad_3.xaml.cs">
+      <DependentUpon>Otchet_post_sklad_3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Output_Docs\Otchet_samovyvoz_7.xaml.cs">
+      <DependentUpon>Otchet_samovyvoz_7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Output_Docs\Vedomost_dvizh_5.xaml.cs">
+      <DependentUpon>Vedomost_dvizh_5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Spr\Address_matrix_Sprav.xaml.cs">
+      <DependentUpon>Address_matrix_Sprav.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Spr\Address_Sprav.xaml.cs">
+      <DependentUpon>Address_Sprav.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Spr\Address_Sprav_edit.xaml.cs">
+      <DependentUpon>Address_Sprav_edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Spr\Blocks_Sprav.xaml.cs">
+      <DependentUpon>Blocks_Sprav.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Spr\Block_matrix_Sprav.xaml.cs">
+      <DependentUpon>Block_matrix_Sprav.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Spr\Block_matrix_Sprav_edit.xaml.cs">
+      <DependentUpon>Block_matrix_Sprav_edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Spr\Block_Sprav_edit.xaml.cs">
+      <DependentUpon>Block_Sprav_edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Spr\Customers_Sprav.xaml.cs">
+      <DependentUpon>Customers_Sprav.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Spr\Customers_Sprav_edit.xaml.cs">
+      <DependentUpon>Customers_Sprav_edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Spr\Manufactory_Sprav.xaml.cs">
+      <DependentUpon>Manufactory_Sprav.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Spr\Manufactory_Sprav_edit.xaml.cs">
+      <DependentUpon>Manufactory_Sprav_edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Spr\VEHICLE_Sprav.xaml.cs">
+      <DependentUpon>VEHICLE_Sprav.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Spr\VEHICLE_Sprav_edit.xaml.cs">
+      <DependentUpon>VEHICLE_Sprav_edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Spr\ZBI_Sprav.xaml.cs">
+      <DependentUpon>ZBI_Sprav.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Spr\ZBI_Sprav_edit.xaml.cs">
+      <DependentUpon>ZBI_Sprav_edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WorkClasses\WorkClass.cs" />
+    <Page Include="Forms\GlobalForm.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="Forms\App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Forms\GlobalForm.xaml.cs">
+      <DependentUpon>GlobalForm.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Forms\O_Programme.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Forms\Spravka.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Input_Docs\Contracts_edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Input_Docs\Contracts_jbi_edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Input_Docs\Contract_in_doc.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Input_Docs\Graf_otgr_edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Input_Docs\Graf_otgr_in_doc.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Input_Docs\Mes_plan_vip_edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Input_Docs\Mes_plan_vip_in_doc.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Input_Docs\SF_ACTS_edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Input_Docs\SF_ACTS_in_doc.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Input_Docs\SF_in_doc.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Input_Docs\SF_in_doc_edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Input_Docs\Ved_ost_edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Input_Docs\Ved_ost_in_doc.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Input_Docs\Vehicle_register_edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Input_Docs\Vehicle_Register_in_doc.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Input_Docs\Waybill_in_In_doc.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Input_Docs\Waybill_out_In_doc.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Input_Docs\Zayavka_edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Input_Docs\Zayavka_otgr.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Output_Docs\God_Otchet_8.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Output_Docs\God_plan_post_1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Output_Docs\Grafik_dost_4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Output_Docs\Mes_plan_otgr_2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Output_Docs\Otchet_dost_6.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Output_Docs\Otchet_post_sklad_3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Output_Docs\Otchet_samovyvoz_7.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Output_Docs\Vedomost_dvizh_5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Spr\Address_matrix_Sprav.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Spr\Address_Sprav.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Spr\Address_Sprav_edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Spr\Blocks_Sprav.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Spr\Block_matrix_Sprav.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Spr\Block_matrix_Sprav_edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Spr\Block_Sprav_edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Spr\Customers_Sprav.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Spr\Customers_Sprav_edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Spr\Manufactory_Sprav.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Spr\Manufactory_Sprav_edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Spr\VEHICLE_Sprav.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Spr\VEHICLE_Sprav_edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Spr\ZBI_Sprav.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Spr\ZBI_Sprav_edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="App1.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Styles\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\вопрос3.jpg" />
+    <Resource Include="Images\инфо.jpg" />
+    <Resource Include="Images\печать.jpg" />
+    <Resource Include="Images\создать.jpg" />
+    <Resource Include="Images\сохранить.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Новый рисунок %282%29.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\326820-1366x768.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\389815-1366x768.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\390433-1366x768.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\144243-1280x960.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\розыв горшке.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\ромаш.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\машина1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\машина11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="colors.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

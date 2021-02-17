@@ -1,0 +1,28 @@
+﻿<Window x:Class="sbyt_WpfApplication.Forms.Spravka"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+         Title="Справка" Height="450" Width="550" ResizeMode="NoResize">
+    <Grid>
+        <Label Content="Данная программа позволяет автоматизированно решать следующие задачи отдела сбыта:" Height="27" HorizontalAlignment="Left" Name="label1" VerticalAlignment="Top" Width="528" MaxWidth="550" MaxHeight="300" AllowDrop="False" FontWeight="Normal" FontStyle="Normal" FontSize="12" FontStretch="Normal" FontFamily="Segoe UI Symbol" Margin="0,12,0,0" />
+        <Label Content="1. Составление годового плана поставки ЖБИ по месяцам" Height="28" HorizontalAlignment="Left" Margin="9,30,0,0" Name="label2" VerticalAlignment="Top" Width="341" />
+        <Label Content="2. Составление месячного плана отгрузки ЖБИ заказчикам" Height="28" HorizontalAlignment="Left" Margin="9,52,0,0" Name="label3" VerticalAlignment="Top" />
+        <Label Content="3. Контроль выполнения плана выпуска ЖБИ по цехам и поставки на склад за месяц" Height="28" HorizontalAlignment="Left" Margin="9,74,0,0" Name="label4" VerticalAlignment="Top" Width="479" />
+        <Label Content="4. Формирование графика доставки малогабаритных ЖБИ на объекты заказчиков" Height="28" HorizontalAlignment="Left" Margin="9,96,0,0" Name="label5" VerticalAlignment="Top" />
+        <Label Content="5. Учёт движения готовой продукции на складе за месяц" Height="28" HorizontalAlignment="Left" Margin="9,118,0,0" Name="label6" VerticalAlignment="Top" />
+        <Label Content="6. Контроль выполнения месячного плана отгрузки ЖБИ для центр. доставки" Height="28" HorizontalAlignment="Left" Margin="9,139,0,0" Name="label7" VerticalAlignment="Top" />
+        <Label Content="7. Контроль выполнения месячного плана отгрузки ЖБИ для самовывоза" Height="28" HorizontalAlignment="Left" Margin="9,162,0,0" Name="label8" VerticalAlignment="Top" />
+        <Label Content="8. Учёт реализации ЖБИ по заказчикам за год" Height="28" HorizontalAlignment="Left" Margin="9,185,0,0" Name="label9" VerticalAlignment="Top" />
+        <Label Content="Чтобы перейти к решению задачи, выберите её в пункте меню 'Сформировать документ'" Height="28" Margin="0,219,12,0" Name="label10" VerticalAlignment="Top" FontStyle="Normal" FontWeight="Normal" />
+        <Label Content="на главной странице приложения." Height="28" Margin="0,234,323,0" Name="label11" VerticalAlignment="Top" />
+        <Label Content="За более детальной информацией вы можете обратиться в службу поддержки по телефону:" Height="28" HorizontalAlignment="Left" Margin="0,268,0,0" Name="label12" VerticalAlignment="Top" />
+        <Label Content="8-495-122-15-00 или по электронной почте: Sbyt.help@gmail.com." Height="28" HorizontalAlignment="Left" Margin="0,284,0,0" Name="label13" VerticalAlignment="Top" />
+        <Button Content="OK" Height="23" Margin="222,354,231,0" Name="button1" VerticalAlignment="Top" Click="button1_Click" />
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                <GradientStop Color="#EAFBAB84" Offset="0" />
+                <GradientStop Color="White" Offset="1" />
+                <GradientStop Color="#87DEB887" Offset="0.342" />
+            </LinearGradientBrush>
+        </Grid.Background>
+    </Grid>
+</Window>

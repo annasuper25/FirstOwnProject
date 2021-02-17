@@ -1,0 +1,22 @@
+﻿<Window x:Class="sbyt_WpfApplication.Input_Docs.Contracts_edit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Добавление/изменение договора" Height="316" Width="426">
+    <Grid>
+        <Button Content="Ok" Height="23" HorizontalAlignment="Right" Margin="0,215,95,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+        <Button Content="Отмена" Height="23" HorizontalAlignment="Left" Margin="99,215,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button2_Click" />
+        <Label Content="Наименование заказчика" Height="28" HorizontalAlignment="Left" Margin="18,24,0,0" Name="label4" VerticalAlignment="Top" />
+        <Label Content="Доставка" Height="28" HorizontalAlignment="Left" Margin="18,53,0,0" Name="label1" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="87,58,0,0" Name="textBox1" VerticalAlignment="Top" Width="40" />
+        <Label Content="Адрес доставки" Height="28" HorizontalAlignment="Left" Margin="18,85,0,0" Name="label2" VerticalAlignment="Top" />
+        <!--<TextBox Height="23" HorizontalAlignment="Left" Margin="131,98,0,0" Name="textBox2" VerticalAlignment="Top" Width="70" />-->
+        <ComboBox Height="23" HorizontalAlignment="Right" Margin="0,24,80,0" Name="comboBox1" VerticalAlignment="Top" Width="149" />
+        <ComboBox Height="23" HorizontalAlignment="Right" Margin="0,85,134,0" Name="comboBox2" VerticalAlignment="Top" Width="151" />
+        <Label Content="Дата открытия" Height="28" HorizontalAlignment="Left" Margin="18,122,0,0" Name="label5" VerticalAlignment="Top" />
+        <Label Content="Дата закрытия" Height="28" HorizontalAlignment="Left" Margin="18,154,0,0" Name="label6" VerticalAlignment="Top" />
+        <DatePicker Height="25" HorizontalAlignment="Left" Margin="116,123,0,0" Name="datePicker1" VerticalAlignment="Top" Width="115" />
+        <DatePicker Height="25" HorizontalAlignment="Left" Margin="116,157,0,0" Name="datePicker2" VerticalAlignment="Top" Width="115" />
+        <Button Content="+" FontSize="14" FontWeight="Bold" Height="23" HorizontalAlignment="Right" Margin="0,24,41,0" Name="button3" VerticalAlignment="Top" Width="25" Click="button3_Click" />
+        <Button Content="+" FontSize="14" FontWeight="Bold" Height="23" HorizontalAlignment="Right" Margin="0,85,96,0" Name="button4" VerticalAlignment="Top" Width="25" Click="button4_Click" />
+    </Grid>
+</Window>
