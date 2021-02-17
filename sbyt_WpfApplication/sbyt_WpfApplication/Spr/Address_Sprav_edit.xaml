@@ -1,0 +1,17 @@
+﻿<Window x:Class="sbyt_WpfApplication.Spr.Address_Sprav_edit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Добавить/изменить запись справочника адресов" Height="316" Width="426">
+    <Grid>
+        <Button Content="Ok" Height="23" HorizontalAlignment="Right" Margin="0,215,95,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+        <Button Content="Отмена" Height="23" HorizontalAlignment="Left" Margin="99,215,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button2_Click" />
+        <Label Content="Адрес объекта" Height="28" HorizontalAlignment="Left" Margin="21,44,0,0" Name="label1" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="134,46,0,0" Name="textBox1" VerticalAlignment="Top" Width="225" />
+        <Label Content="Блок объекта" Height="28" HorizontalAlignment="Left" Margin="21,81,0,0" Name="label2" VerticalAlignment="Top" />
+        <!--<TextBox Height="23" HorizontalAlignment="Left" Margin="131,98,0,0" Name="textBox2" VerticalAlignment="Top" Width="70" />-->
+        <Label Content="Расстояние от объекта до центра блока (км)" Height="28" HorizontalAlignment="Left" Margin="21,118,0,0" Name="label3" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="281,120,0,0" Name="textBox3" VerticalAlignment="Top" Width="78" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="134,82,0,0" Name="comboBox1" VerticalAlignment="Top" Width="116" />
+ 
+    </Grid>
+</Window>

@@ -1,0 +1,72 @@
+﻿<Window x:Class="sbyt_WpfApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="СБЫТ 1.0" Height="500" Width="935" Background="#FFE8E8E8">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="560*" />
+            <ColumnDefinition Width="353*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />            
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+  
+        <Menu Height="30"  Grid.ColumnSpan="2" Background="LightSteelBlue">
+            <MenuItem Header="Файл" Name="MenuItem1" FontSize="14">
+                              
+                <MenuItem Header="На главную страницу" Background="White" Click="GlobalForm_click" >
+                    
+                </MenuItem>
+                <MenuItem Header="Выход" Background="Beige" Click="Exit_Click" />
+            </MenuItem>
+            <MenuItem Header="Справочники" Name="MenuItem4" Height="30" FontSize="14">
+                <MenuItem Header="Справочник ЖБИ" Background="LightYellow" Click="ZBI_Spr_Click" />
+                <MenuItem Header="Справочник цехов" Background="LightCyan" Click="Manufactory_Spr_Click"/>
+                <MenuItem Header="Справочник ТС" Background="LightYellow" Click="VEHICLE_Spr_Click"/>
+                <MenuItem Header="Адреса объектов" Background="LightCyan" Click="Address_Spr_Click"/>
+                <MenuItem Header="Справочник блоков" Background="LightYellow" Click="Blocks_Spr_Click" />
+                <MenuItem Header="Матрица расстояний между блоками" Background="LightCyan" Click="Block_matrix_Spr_Click"/>
+                <MenuItem Header="Справочник заказчиков" Background="LightYellow" Click="Customers_Spr_Click"/>
+                <MenuItem Header="Матрица расстояний между объектами" Background="LightCyan" Click="Address_matrix_Spr_Click"/>
+            </MenuItem>
+            <MenuItem Header="Входные документы" Name="MenuItem5" Height="30" FontSize="14">
+                <MenuItem Header="Договор" Background="LightYellow" Click="Contract_in_doc_Click"/>
+                <MenuItem Header="Заявка на отгрузку ЖБИ" Background="LightCyan" Click="Zayavka_otgr_Click"/>
+                <MenuItem Header="График отгрузки ЖБИ" Background="LightYellow" Click="Graf_otgr_Click" />
+                <MenuItem Header="План выпуска ЖБИ на месяц" Background="LightCyan" Click="Mes_plan_vip_Click" />
+                <MenuItem Header="Журнал учета ТС" Background="LightYellow" Click="Vehicle_register_Click" />
+                <MenuItem Header="Накладная на выпущенную продукцию" Background="LightCyan" Click="Waybill_in_Click" />
+                <MenuItem Header="Накладная на отпущенную продукцию" Background="LightYellow" Click="Waybill_out_Click" />
+                <MenuItem Header="Ведомость остатков на складе" Background="LightCyan" Click="Ved_ost_Click" />
+                <MenuItem Header="Счета-фактуры" Background="LightYellow" Click="SF_Click" />
+                <MenuItem Header="Акты об оплате СФ" Background="LightCyan" Click="SF_ACTS_Click" />            
+            </MenuItem>
+            <MenuItem Header="Сформировать документ" Name="MenuItem2" Height="30" FontSize="14">
+                <MenuItem Header="Годовой план поставки ЖБИ с разбивкой по месяцам" Background="LightYellow" Click="God_plan_post_Click"/>
+                <MenuItem Header="Месячный план отгрузки ЖБИ заказчикам" Background="LightCyan" Click="Mes_plan_otgr_Click"/>
+                <MenuItem Header="Отчёт о выполнении плана выпуска ЖБИ по цехам за месяц" Background="LightYellow" IsChecked="True" Click="Otchet_post_sklad_Click"/>
+                <MenuItem Header="График доставки малогабаритных ЖБИ на объекты заказчиков" Background="LightCyan" Click="Grafik_dost_Click" />
+                <MenuItem Header="Ведомость движения готовой продукции на складе за месяц " Background="LightYellow" Click="Ved_dvizh_Click" />
+                <MenuItem Header="Отчёт о выполнении месячного плана отгрузки ЖБИ для центр.доставки" Background="LightCyan" IsChecked="True" Click="Otchet_dost_Click"/>
+                <MenuItem Header="Отчёт о выполнении месячного плана отгрузки ЖБИ заказчикам для самовывоза" Background="LightYellow" IsChecked="True" Click="Otchet_samovyvoz_Click" />
+                <MenuItem Header="Годовой отчёт о реализации ЖБИ по заказчикам" Background="LightCyan" IsChecked="True" Click="God_Otchet_Click"/>
+            </MenuItem>
+            <MenuItem Header="Справка"  Name="MenuItem3" FontSize="14">
+                <MenuItem Header="Открыть справку" Background="White" Click="Spravka_Click">
+                    <MenuItem.Icon>
+                        <Image Source="/Images/вопрос3.jpg" Height="25"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="О программе" Background="Beige" Height="25" Click="O_Progr_Click">
+                    <MenuItem.Icon>
+                        <Image Source="/Images/инфо.jpg" />
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        
+        <ContentControl Name="contentCont" Grid.Row="1" Grid.ColumnSpan="2" />
+    </Grid>
+</Window>

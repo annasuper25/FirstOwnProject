@@ -1,0 +1,96 @@
+﻿<UserControl x:Class="sbyt_WpfApplication.Input_Docs.Graf_otgr_in_doc"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="800"
+             x:Name="myContr"
+             >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="49" />
+            <RowDefinition Height="251*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel  Orientation="Horizontal" Margin="429,12,0,0">
+            <Button Content="Добавить"  Margin=" 5" Width="80" Click="Button_Click" />
+            <Button Content="Изменить" Margin=" 5" Width="80" Click="Button_Click_1" />
+            <Button Content="Удалить" Margin=" 5" Width="80" Click="Button_Click_2" />
+        </StackPanel>
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="12,15,0,0" Name="textBlock1" Text=" Введите № договора:" VerticalAlignment="Top" Width="159" FontSize="14" />
+        
+        <Button Content="Сформировать" Height="28" HorizontalAlignment="Left" Margin="269,13,0,0" Name="button1" VerticalAlignment="Top" Width="103" Click="button1_Click" />
+
+        <ComboBox  Height="20" HorizontalAlignment="Left" Margin="161,17,0,0" Name="comboBox1" SelectionChanged="comboBox1_SelectionChanged" VerticalAlignment="Top" Width="66"/>
+        
+        <ListView Name ="_ListView" Grid.Row="1" Margin="5,43,0,30" >
+            <ListView.View>
+                <GridView   >
+                    <GridView.Columns>
+
+                        <GridViewColumn Header="№ договора" >
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding CONTR_ID}"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                       
+                        <GridViewColumn Header="Наименование заказчика" >
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding CUSTOMER_NAME}"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+
+                        <GridViewColumn Header="Наименование ЖБИ" >
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding JBI_NAME}"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                        <GridViewColumn Header=" Ед. изм. " >
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding UNITS}"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                        <GridViewColumn Header="Количество" >
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding AMOUNT}"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        
+                        <GridViewColumn Header=" Месяц " >
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding SHIPPING_MONTH}"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                        <GridViewColumn Header=" Год " >
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding SHIPPING_YEAR}"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+
+                    </GridView.Columns>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Приложение к договору. График отгрузки ЖБИ" Height="28" HorizontalAlignment="Left" Margin="16,10,0,0" Name="label1" VerticalAlignment="Top" Width="304" Grid.Row="1" FontStyle="Italic" />
+    </Grid>
+</UserControl>

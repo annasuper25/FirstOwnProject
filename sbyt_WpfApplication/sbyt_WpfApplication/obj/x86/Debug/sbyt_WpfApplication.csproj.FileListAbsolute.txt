@@ -1,0 +1,228 @@
+c:\users\anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Forms\GlobalForm.baml
+c:\users\anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Forms\GlobalForm.g.cs
+c:\users\anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Forms\App.g.cs
+c:\users\anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\sbyt_WpfApplication_MarkupCompile.cache
+c:\users\anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\sbyt_WpfApplication.g.resources
+c:\users\anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\sbyt_WpfApplication.Properties.Resources.resources
+c:\users\anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\bin\Debug\sbyt_WpfApplication.exe
+c:\users\anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\bin\Debug\sbyt_WpfApplication.pdb
+c:\users\anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\sbyt_WpfApplication.exe
+c:\users\anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\sbyt_WpfApplication.pdb
+C:\Users\Anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\ZBI_Sprav.baml
+C:\Users\Anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\ZBI_Sprav.g.cs
+C:\Users\Anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\VEHICLE_Sprav.baml
+C:\Users\Anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\VEHICLE_Sprav.g.cs
+C:\Users\Anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Manufactopy_Sprav.baml
+C:\Users\Anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Manufactopy_Sprav.g.cs
+C:\Users\Anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Address_Sprav.baml
+C:\Users\Anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Address_Sprav.g.cs
+C:\Users\Anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Customers_Sprav.baml
+C:\Users\Anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Customers_Sprav.g.cs
+C:\Users\Anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Blocks_Sprav.baml
+C:\Users\Anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Blocks_Sprav.g.cs
+C:\Users\Anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Block_matrix_Sprav.baml
+C:\Users\Anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Block_matrix_Sprav.g.cs
+C:\Users\Anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Contract_in_doc.baml
+C:\Users\Anna\documents\visual studio 2010\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Contract_in_doc.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\sbyt_WpfApplication.exe
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\sbyt_WpfApplication.pdb
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\bin\Debug\sbyt_WpfApplication.exe
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\bin\Debug\sbyt_WpfApplication.pdb
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Forms\GlobalForm.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Contract_in_doc.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Address_Sprav.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Blocks_Sprav.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Block_matrix_Sprav.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Customers_Sprav.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\VEHICLE_Sprav.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\ZBI_Sprav.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Forms\GlobalForm.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Contract_in_doc.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Address_Sprav.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Blocks_Sprav.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Block_matrix_Sprav.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Customers_Sprav.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\VEHICLE_Sprav.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\ZBI_Sprav.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Forms\App.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\sbyt_WpfApplication_MarkupCompile.cache
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\sbyt_WpfApplication.g.resources
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\sbyt_WpfApplication.Properties.Resources.resources
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Address_Sprav_edit.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Address_Sprav_edit.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Block_matrix_Sprav_edit.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Block_matrix_Sprav_edit.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Block_Sprav_edit.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Block_Sprav_edit.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\God_Otchet_8.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\God_Otchet_8.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Customers_Sprav_edit.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Customers_Sprav_edit.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Manufactory_Sprav.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Manufactory_Sprav_edit.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Manufactory_Sprav.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Manufactory_Sprav_edit.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\VEHICLE_Sprav_edit.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\VEHICLE_Sprav_edit.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\ZBI_Sprav_edit.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\ZBI_Sprav_edit.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Contracts_edit.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Contracts_edit.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Mes_plan_otgr_2.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Mes_plan_otgr_2.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Otchet_dost_6.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Otchet_dost_6.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Otchet_post_sklad_3.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Otchet_post_sklad_3.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Otchet_samovyvoz_7.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Otchet_samovyvoz_7.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\God_plan_post_1.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\God_plan_post_1.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Mes_plan_vip_in_doc.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Mes_plan_vip_in_doc.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Contracts_jbi_edit.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Contracts_jbi_edit.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Mes_plan_vip_edit.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Mes_plan_vip_edit.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Zayavka_otgr.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Zayavka_otgr.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Forms\Spravka.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Forms\Spravka.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Grafik_dost_4.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Grafik_dost_4.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Vedomost_dvizh_5.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Vedomost_dvizh_5.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Zayavka_edit.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Zayavka_edit.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\SF_in_doc.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\SF_in_doc.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\SF_in_doc_edit.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\SF_in_doc_edit.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\SF_ACTS_in_doc.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\SF_ACTS_in_doc.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Graf_otgr_in_doc.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Graf_otgr_in_doc.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Ved_ost_in_doc.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Ved_ost_in_doc.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Waybill_in_In_doc.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Waybill_in_In_doc.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Waybill_out_In_doc.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Waybill_out_In_doc.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Vehicle_Register_in_doc.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Vehicle_Register_in_doc.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Forms\O_Programme.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Forms\O_Programme.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\SF_ACTS_edit.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\SF_ACTS_edit.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Address_matrix_Sprav.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Address_matrix_Sprav.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\sbyt_WpfApplication.csproj.GenerateResource.Cache
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Graf_otgr_edit.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Graf_otgr_edit.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Vehicle_register_edit.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Vehicle_register_edit.g.cs
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Ved_ost_edit.baml
+D:\!!!Учеба\Projects\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Ved_ost_edit.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\sbyt_WpfApplication.exe
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\sbyt_WpfApplication.pdb
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\bin\Debug\sbyt_WpfApplication.exe
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\bin\Debug\sbyt_WpfApplication.pdb
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\sbyt_WpfApplication.csprojResolveAssemblyReference.cache
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Forms\GlobalForm.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Forms\O_Programme.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Forms\Spravka.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Contracts_edit.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Contracts_jbi_edit.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Contract_in_doc.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Graf_otgr_edit.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Graf_otgr_in_doc.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Mes_plan_vip_edit.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Mes_plan_vip_in_doc.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\SF_ACTS_edit.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\SF_ACTS_in_doc.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\SF_in_doc.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\SF_in_doc_edit.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Ved_ost_edit.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Ved_ost_in_doc.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Vehicle_register_edit.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Vehicle_Register_in_doc.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Waybill_in_In_doc.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Waybill_out_In_doc.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Zayavka_edit.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Zayavka_otgr.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\God_Otchet_8.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\God_plan_post_1.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Grafik_dost_4.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Mes_plan_otgr_2.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Otchet_dost_6.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Otchet_post_sklad_3.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Otchet_samovyvoz_7.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Vedomost_dvizh_5.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Address_matrix_Sprav.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Address_Sprav.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Address_Sprav_edit.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Blocks_Sprav.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Block_matrix_Sprav.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Block_matrix_Sprav_edit.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Block_Sprav_edit.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Customers_Sprav.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Customers_Sprav_edit.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Manufactory_Sprav.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Manufactory_Sprav_edit.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\VEHICLE_Sprav.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\VEHICLE_Sprav_edit.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\ZBI_Sprav.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\ZBI_Sprav_edit.baml
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Forms\GlobalForm.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Forms\O_Programme.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Forms\Spravka.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Contracts_edit.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Contracts_jbi_edit.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Contract_in_doc.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Graf_otgr_edit.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Graf_otgr_in_doc.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Mes_plan_vip_edit.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Mes_plan_vip_in_doc.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\SF_ACTS_edit.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\SF_ACTS_in_doc.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\SF_in_doc.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\SF_in_doc_edit.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Ved_ost_edit.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Ved_ost_in_doc.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Vehicle_register_edit.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Vehicle_Register_in_doc.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Waybill_in_In_doc.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Waybill_out_In_doc.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Zayavka_edit.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Input_Docs\Zayavka_otgr.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\God_Otchet_8.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\God_plan_post_1.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Grafik_dost_4.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Mes_plan_otgr_2.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Otchet_dost_6.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Otchet_post_sklad_3.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Otchet_samovyvoz_7.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Output_Docs\Vedomost_dvizh_5.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Address_matrix_Sprav.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Address_Sprav.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Address_Sprav_edit.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Blocks_Sprav.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Block_matrix_Sprav.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Block_matrix_Sprav_edit.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Block_Sprav_edit.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Customers_Sprav.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Customers_Sprav_edit.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Manufactory_Sprav.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\Manufactory_Sprav_edit.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\VEHICLE_Sprav.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\VEHICLE_Sprav_edit.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\ZBI_Sprav.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Spr\ZBI_Sprav_edit.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\Forms\App.g.cs
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\sbyt_WpfApplication_MarkupCompile.cache
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\sbyt_WpfApplication.g.resources
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\sbyt_WpfApplication.Properties.Resources.resources
+F:\ДИПЛОМ 5 КУРС\sbyt_WpfApplication\sbyt_WpfApplication\obj\x86\Debug\sbyt_WpfApplication.csproj.GenerateResource.Cache

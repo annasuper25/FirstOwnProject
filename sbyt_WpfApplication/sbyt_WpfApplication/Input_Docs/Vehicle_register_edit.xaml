@@ -1,0 +1,15 @@
+﻿<Window x:Class="sbyt_WpfApplication.Input_Docs.Vehicle_register_edit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Добавить/изменить запись журнала ТС" Height="316" Width="426">
+    <Grid>
+        <Button Content="Ok" Height="23" HorizontalAlignment="Right" Margin="0,215,95,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button_OK_Click" />
+        <Button Content="Отмена" Height="23" HorizontalAlignment="Left" Margin="99,215,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button2_Click" />
+        <Label Content="Техническое состояние" Height="28" HorizontalAlignment="Left" Margin="32,106,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="№ ТС" Height="28" HorizontalAlignment="Left" Margin="124,69,0,0" Name="label3" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="176,109,0,0" Name="textBox1" VerticalAlignment="Top" Width="56" />
+        <DatePicker Height="25" HorizontalAlignment="Right" Margin="0,29,114,0" Name="datePicker1" VerticalAlignment="Top" Width="115" />
+        <Label Content="Дата" Height="28" HorizontalAlignment="Left" Margin="128,29,0,0" Name="label5" VerticalAlignment="Top" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="175,71,0,0" Name="comboBox1" VerticalAlignment="Top" Width="61" />
+    </Grid>
+</Window>
